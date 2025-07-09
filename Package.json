@@ -1,0 +1,11 @@
+{
+  "name": "aviax-music",
+  "version": "1.0.0",
+  "description": "AviaxMusic NodeJS Dummy for pytgcalls",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Node.js installed!'"
+  },
+  "author": "",
+  "license": "MIT"
+}
